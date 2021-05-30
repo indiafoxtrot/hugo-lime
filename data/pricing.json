@@ -6,8 +6,8 @@
       "title" : "Regular",
       "price" : "$16",
       "features" : [
-        "100% Cotton",
-        "Pay only for what you use",
+        "100% Preshrunk Cotton",
+        "Double-needle Sleeve",
         "Real-time fee reporting"
       ],
       "button" : {
@@ -19,10 +19,8 @@
       "title" : "Premium",
       "price" : "$24",
       "features" : [
-        "All features of Starter Pack",
-        "Feature number 2",
-        "Feature 3",
-        "feature 4"
+        " 60% cotton / 40% polyester",
+        "Super Light Fabric"
       ],
       "button" : {
         "text" : "Contact",
@@ -33,10 +31,11 @@
       "title" : "Add-ons",
       "price" : "$5+",
       "features" : [
-        "All features of Starter Pack",
+        "Rhinestones",
         "Crystals",
-        "Feature 3",
-        "feature 4"
+        "Metals",
+        "Pearls",
+        "..."
       ],
       "button" : {
         "text" : "Contact",
