@@ -1,4 +1,4 @@
-baseURL = "https://bluplanet.custom/"
+baseURL = "https://zen-archimedes-cc21be.netlify.app"
 languageCode = "en-us"
 title = "BluPlanet"
 theme = "hugo-lime"
