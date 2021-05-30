@@ -1,0 +1,47 @@
+{
+  "title" : "Pricing",
+  "description" : "*Unit Price",
+  "content" : [
+    {
+      "title" : "Regular",
+      "price" : "$16",
+      "features" : [
+        "100% Cotton",
+        "Pay only for what you use",
+        "Real-time fee reporting"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    },
+    {
+      "title" : "Premium",
+      "price" : "$24",
+      "features" : [
+        "All features of Starter Pack",
+        "Feature number 2",
+        "Feature 3",
+        "feature 4"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    },
+    {
+      "title" : "Add-ons",
+      "price" : "$5+",
+      "features" : [
+        "All features of Starter Pack",
+        "Crystals",
+        "Feature 3",
+        "feature 4"
+      ],
+      "button" : {
+        "text" : "Contact",
+        "href" : "/#contact"
+      }
+    }
+  ]
+}
