@@ -1,0 +1,21 @@
+{
+  "title" : "Our Services",
+  "description" : "You can order either contact us on Instagram or call directly (647) 983-7737 to order your own custom shirt.",
+  "content" : [
+    {
+      "icon" : "star",
+      "title" : "Quality",
+      "description" : "We from BluPlanet garantee high quality for every product that comes from us, if you see that something seems off, do not hesitate to contact our support team."
+    },
+    {
+      "icon" : "spinner",
+      "title" : "Experience",
+      "description" : "With more than 20 yeas of experience we garantee satisfaction with your final product."
+    },
+    {
+      "icon" : "leaf",
+      "title" : "Innovation",
+      "description" : "Innovation is a word that we always bring to our service and producs, everyday we seek for new ways to attend and serve our clients."
+    }
+  ]
+}

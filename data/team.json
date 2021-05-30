@@ -1,0 +1,26 @@
+{
+  "title" : "Team",
+  "description" : "Everything you can imagine is real",
+  "members" : [
+    {
+      "name" : "Van",
+      "description" : "Administrator",
+      "avatar" : "me.jpg",
+      "social" : {
+        
+        "instagram" : "https://www.instagram.com/bluplanet_custom/"
+       
+      }
+    },
+    {
+      "name" : "Lissa",
+      "description" : "Designer",
+      "avatar" : "mo.jpg",
+      "social" : {
+
+        "instagram" : "https://www.instagram.com/bluplanet_custom/"
+      
+      }
+    }
+  ]
+}

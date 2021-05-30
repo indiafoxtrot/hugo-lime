@@ -1,0 +1,4 @@
+baseURL = "http://bluplanet.custom"
+languageCode = "en-us"
+title = "BluPlanet"
+theme = "hugo-lime"
