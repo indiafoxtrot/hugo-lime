@@ -1,9 +1,9 @@
 {
 	"title" : "Any design; Any Time",
-	"description" : "We are a company that makes custom shirts for companies and individuals. ",
+	"description" : "We are a company that makes custom shirts for individuals and companies. ",
 	"illustration" : "Panfleto.png",
 	"alt_text" : "Check our Prices",
-	"alt_href" : "#features",
+	"alt_href" : "#pricing",
 	"button" : {
 		"text" : "Contact",
 		"href" : "#contact"
